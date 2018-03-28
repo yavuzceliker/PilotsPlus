@@ -1,0 +1,16 @@
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\PilotsPlus.exe.config
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\PilotsPlus.exe
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\PilotsPlus.pdb
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.csprojResolveAssemblyReference.cache
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.Form1.resources
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.Properties.Resources.resources
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.csproj.GenerateResource.Cache
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.exe
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.pdb
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.Form2.resources
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\bin\Debug\tr\PilotsPlus.resources.dll
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\PilotsPlus.Form2.tr.resources
+C:\Users\Yavuz\Desktop\PilotsPlus\PilotsPlus\obj\Debug\tr\PilotsPlus.resources.dll
